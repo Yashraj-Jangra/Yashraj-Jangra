@@ -179,7 +179,7 @@ const yashraj = {
       </p>
       <p>
         <a href="https://github.com/Yashraj-Jangra/Yashraj-Jangra.github.io"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
-        <a href="https://yashraj-jangra.github.io"><img src="https://img.shields.io/badge/Live%20Site-7c3aed?style=flat-square&logo=githubpages&logoColor=white" /></a>
+        <a href="https://yashraj.me"><img src="https://img.shields.io/badge/Live%20Site-7c3aed?style=flat-square&logo=githubpages&logoColor=white" /></a>
       </p>
     </td>
   </tr>
