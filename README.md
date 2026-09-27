@@ -85,7 +85,7 @@ const yashraj = {
       </p>
       <p>
         <a href="https://github.com/Yashraj-Jangra/SplitIt-SplitWise_Clone"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
-        <a href="https://split.cvweb.tech"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://split.cvweb.qzz.io"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white" /></a>
         <img src="https://img.shields.io/github/stars/Yashraj-Jangra/SplitIt-SplitWise_Clone?style=flat-square&color=a78bfa" />
       </p>
     </td>
